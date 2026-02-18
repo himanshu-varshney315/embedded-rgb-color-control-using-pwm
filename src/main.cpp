@@ -2,7 +2,7 @@
 /**
  * @file main.cpp
  * @brief Embedded RGB LED Control (Digital + PWM)
- * @author YOUR_NAME
+ * @author himanshu
  * @date YYYY-MM-DD
  *
  * @details
